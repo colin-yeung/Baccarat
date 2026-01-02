@@ -1,4 +1,4 @@
-# baccarat
+# Baccarat
 
 Baccarat is a card game played in casinos around the world. The following rules and scoring is shown below: 
 
